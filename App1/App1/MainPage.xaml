@@ -5,8 +5,9 @@
              x:Class="App1.MainPage">
 
     <StackLayout>
+        <!-- -->
         <!-- Place new controls here -->
-        <Label Text="Welcome to Xamarin.Forms!" 
+        <Label Text="foo" 
            HorizontalOptions="Center"
            VerticalOptions="CenterAndExpand" />
     </StackLayout>
